@@ -1,0 +1,27 @@
+.container {
+    margin: auto;
+    width: 1215px;
+    color: #3b3b3b;
+    text-align: center;
+}
+
+header {
+    margin: 50px 0;
+}
+
+span {
+    font-size: 24px;
+    font-style: italic;
+    font-family: 'Georgia', 'Times New Roman', serif;
+}
+
+h1 {
+    font-size: 44px;
+    margin-top: 10px;
+    font-family: 'Helvetica', 'Arial', sans-serif;
+}
+
+.images {
+    margin: 16px;
+    display: inline-block;
+}
