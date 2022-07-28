@@ -1,0 +1,62 @@
+.container {
+    margin: 0 auto;
+    min-width: 500px;
+    width: 45%;
+    text-align: left;
+    color: #3b3b3b;
+    font-weight: bold;
+    font-family: 'Helvetica', 'Arial', sans-serif;
+}
+
+form {
+    outline: 0;
+    height: 36px;
+    margin-top: 5%;
+    border: 3px solid #3b3b3b;
+}
+
+input[type="text"] {
+    outline: 0;
+    width: 55%;
+    height: 32px;
+    border: none;
+    font-size: 18px;
+    font-weight: normal;
+    padding-left: 10px;
+}
+
+.add {
+    outline: 0;
+    float: right;
+    width: 34%;
+    height: 36px;
+    color: #fff;
+    font-size: 18px;
+    border: none;
+    cursor: pointer;
+    background-color: #3b3b3b;
+}
+
+ul {
+    padding: 0;
+    text-align: left;
+    list-style: none;
+}
+
+hr {
+    border-bottom: 0;
+    margin: 15px 0;
+}
+
+input[type="checkbox"] {
+    width: 30px;
+}
+
+.remove {
+    float: right;
+    cursor: pointer;
+}
+
+.completed {
+    text-decoration: line-through;
+}
