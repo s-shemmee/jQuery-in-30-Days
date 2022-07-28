@@ -1,4 +1,4 @@
-# One Month jQuery
+#  <img src="https://media.giphy.com/media/FVOmnX9L69CoQntslz/giphy.gif" width="60"> jQuery
 
 ### Prerequisites: HTML & CSS Selectors
 
